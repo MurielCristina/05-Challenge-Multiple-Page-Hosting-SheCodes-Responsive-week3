@@ -1,0 +1,22 @@
+body {
+  background-color: lemonchiffon;
+  text-align: center;
+  color: darkgreen;
+}
+h1 {
+  font-size: 40px;
+}
+p {
+  margin-top: 10px;
+  margin-bottom: 20px;
+  font-size: 14px;
+}
+a {
+  margin: 10px;
+  color: darkgreen;
+}
+image {
+  display: block;
+  margin: 0 auto;
+  max-width: 80%;
+}
