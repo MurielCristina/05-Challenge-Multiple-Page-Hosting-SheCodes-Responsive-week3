@@ -20,3 +20,9 @@ image {
   margin: 0 auto;
   max-width: 80%;
 }
+.urls {
+  margin-top: 30px;
+}
+.mailto {
+  color: blue;
+}
