@@ -6,6 +6,11 @@ body {
 h1 {
   font-size: 40px;
 }
+h2 {
+  text-align: left;
+  text-decoration: underline;
+  font-size: 20px;
+}
 p {
   margin-top: 10px;
   margin-bottom: 20px;
